@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440999152709",
+    "firebase_url": "https://zeewavaa.firebaseio.com",
+    "project_id": "zeewavaa",
+    "storage_bucket": "zeewavaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440999152709:android:01f06b09803694aa",
+        "android_client_info": {
+          "package_name": "com.codetribe.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440999152709-ne1rlsh59c2vphqkho5gutgn779iv5md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codetribe.project",
+            "certificate_hash": "7907647e68ba48a187170a359839b6652fbe3e9e"
+          }
+        },
+        {
+          "client_id": "440999152709-hijvq3ik77mlv2h4to3cd6oqma54k570.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwwa2wGWm4BsbJHHRvgUDySIxnc7RRh4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440999152709-hijvq3ik77mlv2h4to3cd6oqma54k570.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
